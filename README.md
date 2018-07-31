@@ -1,4 +1,4 @@
-# js-stellar-ledger-wallet
+# stellar-ledger-wallet
 
 This is a wrapper around the official Ledger libraries for Stellar:
 
@@ -66,7 +66,7 @@ In your HTML pages:
   ...
     <!-- Best placed at the end of body to not delay page loading -->
     <script src="https://unpkg.com/stellar-sdk/dist/stellar-sdk.min.js"></script>
-    <script src="https://unpkg.com/stellar-ledger-wallet/web/ledger-wallet.js"></script>
+    <script src="https://raw.github.com/MisterTicot/web-stellar-ledger-wallet/master/ledger-wallet.js"></script>
   </body>
 ```
 
@@ -146,12 +146,12 @@ Once connection is established:
 
 Other available data:
 
-*Stellar app version:* ledgerWallet.version
-*Bip path:* ledgerWallet.path
+* Stellar app version: ledgerWallet.version
+* Bip path: ledgerWallet.path
 
 Underlying components:
 
-*Ledger Transport instance:* ledgerWallet.transport
-*Ledger Str App instance:* ledgerWallet.application
+* Ledger Transport instance: ledgerWallet.transport
+* Ledger Str App instance: ledgerWallet.application
 
 ## That's all Folks :)
