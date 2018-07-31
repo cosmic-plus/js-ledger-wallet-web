@@ -1,0 +1,14 @@
+{
+  "name": "stellar-ledger-wallet",
+  "version": "0.1.0",
+  "homepage": "https://github.com/MisterTicot/js-stellar-ledger-wallet",
+  "authors": [ "Mister.Ticot" ],
+  "licence": "MIT",
+  "description": "A wrapper around official Ledger libraries that makes it easier to deal with Ledger wallets",
+  "keywords": [ "cryptocurrency", "stellar", "hardware", "ledger", "wallet" ],
+  "main": "ledger-wallet.js",
+  "ignore": [ ".**", "doc" ],
+  "dependencies": {
+    "stellar-sdk": ">=0.9.2"
+  }
+}
