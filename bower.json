@@ -8,6 +8,6 @@
   "main": "ledger-wallet.js",
   "ignore": [ ".*", "package-lock.json", "doc" ],
   "dependencies": {
-    "stellar-sdk": ">=0.14"
+    "stellar-sdk": ">=0.15"
   }
 }
