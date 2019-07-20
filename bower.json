@@ -1,13 +1,13 @@
 {
   "name": "cosmic-plus-ledger-wallet",
-  "description": "A wrapper around official Ledger libraries that makes it easier to deal with Ledger wallets in Stellar apps",
+  "description": "A wrapper around official Ledger libraries that makes it easy to deal with Ledger wallets in Stellar apps",
   "authors": [ "MisterTicot" ],
-  "homepage": "https://github.com/cosmic-plus/node-ledger-wallet",
+  "homepage": "https://cosmic.plus/#view:js-ledger-wallet",
   "licence": "MIT",
-  "keywords": [ "cryptocurrency", "stellar", "hardware", "ledger", "wallet" ],
+  "keywords": [ "stellar", "hardware", "Ledger", "wallet" ],
   "main": "ledger-wallet.js",
   "ignore": [ ".*", "package-lock.json", "doc" ],
   "dependencies": {
-    "stellar-sdk": ">=0.15"
+    "stellar-sdk": "^2.0.1"
   }
 }
