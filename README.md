@@ -1,4 +1,4 @@
-# @cosmic-plus/ledger-wallet
+i# @cosmic-plus/ledger-wallet
 
 ![Licence](https://img.shields.io/github/license/cosmic-plus/js-ledger-wallet.svg)
 [![Dependencies](https://david-dm.org/cosmic-plus/js-ledger-wallet/status.svg)](https://david-dm.org/cosmic-plus/js-ledger-wallet)
