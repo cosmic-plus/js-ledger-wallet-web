@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.3.5 - 2019-07-26
+
+### Changed
+
+- Automate release procedure.
+- Add contributing guidelines.
+- Update Ledger libraries to 4.68.x
+
 ## 0.3.4 - 2019-07-20
 
 ### Changed
