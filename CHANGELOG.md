@@ -1,6 +1,17 @@
-# Changelog
+**ledger-wallet /**
+[Readme](README.md)
+• [Contributing](CONTRIBUTING.md)
+• [Changelog](CHANGELOG.md)
+
+# 0.3.6 - 2019-07-31
 
 All notable changes to this project will be documented in this file.
+
+## Unreleased
+
+### Changed
+
+- Remove `ledgerWallet.connect()` dependency on StellarSdk.
 
 ## 0.3.5 - 2019-07-26
 
