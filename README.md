@@ -1,15 +1,16 @@
 **ledger-wallet /**
-[Readme](README.md)
-• [Contributing](CONTRIBUTING.md)
-• [Changelog](CHANGELOG.md)
+[Readme](https://cosmic.plus/#view:js-ledger-wallet)
+• [Examples](https://cosmic.plus/#view:js-ledger-wallet/EXAMPLES)
+• [Contributing](https://cosmic.plus/#view:js-ledger-wallet/CONTRIBUTING)
+• [Changelog](https://cosmic.plus/#view:js-ledger-wallet/CHANGELOG)
 
 # Readme
 
 ![Licence](https://img.shields.io/github/license/cosmic-plus/js-ledger-wallet.svg)
-[![Dependencies](https://img.shields.io/david/cosmic-plus/js-ledger-wallet)](https://david-dm.org/cosmic-plus/js-ledger-wallet)
-![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/npm/@cosmic-plus/ledger-wallet.svg)
-![Size](https://img.shields.io/bundlephobia/minzip/@cosmic-plus/ledger-wallet.svg)
-![Downloads](https://img.shields.io/npm/dt/@cosmic-plus/ledger-wallet.svg)
+[![Dependencies](https://badgen.net/david/dep/cosmic-plus/js-ledger-wallet)](https://david-dm.org/cosmic-plus/js-ledger-wallet)
+![Vulnerabilities](https://snyk.io/test/npm/@cosmic-plus/ledger-wallet/badge.svg)
+![Size](https://badgen.net/bundlephobia/minzip/@cosmic-plus/ledger-wallet)
+![Downloads](https://badgen.net/npm/dt/@cosmic-plus/ledger-wallet)
 
 This is a wrapper around the official Ledger libraries for Stellar:
 

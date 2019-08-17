@@ -1,13 +1,20 @@
 **ledger-wallet /**
-[Readme](README.md)
-• [Contributing](CONTRIBUTING.md)
-• [Changelog](CHANGELOG.md)
+[Readme](https://cosmic.plus/#view:js-ledger-wallet)
+• [Examples](https://cosmic.plus/#view:js-ledger-wallet/EXAMPLES)
+• [Contributing](https://cosmic.plus/#view:js-ledger-wallet/CONTRIBUTING)
+• [Changelog](https://cosmic.plus/#view:js-ledger-wallet/CHANGELOG)
 
 # Changelog
 
 All notable changes to this project will be documented in this file. This
 software adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 In other words, breaking changes are introduced in major releases only (X.0.0).
+
+## 1.1.0 - 2019-08-17
+
+### Added
+
+- Doc: Add EXAMPLES.md.
 
 ## 1.0.0 - 2019-08-10
 
@@ -139,7 +146,7 @@ bump only means that this library is public and stable.
 
 - Update Ledger libraries.
 
-## 0.2.09 - 2019-12-18
+## 0.2.09 - 2018-12-18
 
 ### Changed
 
