@@ -20,6 +20,12 @@ Versioning](https://semver.org/spec/v2.0.0.html)**. Version syntax is
 backward-compatibility and can be updated to without risk of breakage. For major
 releases, please check this changelog before upgrading.
 
+## 1.4.0 - 2019-11-23
+
+### Changed
+
+- Logic: Update [@ledgerhq] libraries to 4.74.2. (bugfixes)
+
 ## 1.3.1 - 2019-11-09
 
 ### Changed
@@ -219,4 +225,5 @@ bump only means that this library is public and stable.
 There is no changelog for older releases. Please look take a look at [commit
 history](https://github.com/cosmic-plus/js-ledger-wallet/commits/master).
 
-[BIP44]: https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki
+[bip44]: https://github.com/bitcoin/bips/blob/master/bip-0044.mediawiki
+[@ledgerhq]: https://github.com/LedgerHQ/ledgerjs/releases
